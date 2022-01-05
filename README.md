@@ -1,5 +1,5 @@
 - 📱 Swift and Flutter
--  Software engineer @Nubank
+-  Software engineer [@Nubank](https://github.com/nubank)
 - 📫 You can reach me on [Twitter](https://twitter.com/iccanche), [LinkedIn](https://www.linkedin.com/in/irvin-chan-3404198b/) or my email irvin6269@gmail.com
 
 <!---
